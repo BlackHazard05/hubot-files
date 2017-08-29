@@ -1,0 +1,34 @@
+{
+  "name": "Skynet",
+  "version": "0.0.0",
+  "private": true,
+  "author": "cesar.hsoto@alumnos.udg.mx",
+  "description": "A special friend",
+  "dependencies": {
+    "chrono-node": "^0.1.10",
+    "hubot": "^2.19.0",
+    "hubot-config": "^1.0.1",
+    "hubot-diagnostics": "0.0.2",
+    "hubot-google-images": "^0.2.7",
+    "hubot-google-translate": "^0.2.1",
+    "hubot-gtalk": ">= 0.0.1",
+    "hubot-help": "^0.2.2",
+    "hubot-heroku-keepalive": "^1.0.3",
+    "hubot-maps": "0.0.3",
+    "hubot-matteruser": "^3.10.0",
+    "hubot-pugme": "^0.1.1",
+    "hubot-redis-brain": "0.0.4",
+    "hubot-remind-advanced": "0.0.5",
+    "hubot-rules": "^0.1.2",
+    "hubot-scripts": "^2.17.2",
+    "hubot-shipit": "^0.2.1",
+    "hubot-speak": "0.0.16",
+    "hubot-toggl": "^1.0.3",
+    "hubot-xmpp": ">= 0.0.1",
+    "lodash": "^2.4.1",
+    "moment": "^2.8.1"
+  },
+  "engines": {
+    "node": "0.10.x"
+  }
+}
